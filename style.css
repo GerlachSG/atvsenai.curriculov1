@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    align-items: center;
+
+}
+
+h1, h2 {
+    color: #333;
+    
+}
+
+.container {
+    max-width: 8000px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.section {
+    margin-bottom: 20px;
+}
+
+.experience-item {
+    font-weight: bold;
+}
